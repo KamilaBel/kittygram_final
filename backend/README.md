@@ -18,7 +18,7 @@ python3 -m venv env
 
 * Если у вас Linux/macOS
 
-```bash
+    ```
     source env/bin/activate
     ```
 

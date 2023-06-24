@@ -9,8 +9,8 @@
 В корне репозитория создайте файл tests.yml со следующим содержимым:
 ```yaml
 repo_owner: KamilaBel
-kittygram_domain: [Kittygram](kittigram-yp.sytes.net)
-taski_domain: [Taski](taski-yp.sytes.net)
+kittygram_domain: [Kittygram](https://kittigram-yp.sytes.net)
+taski_domain: [Taski](https://taski-yp.sytes.net)
 dockerhub_username: belomoinaka
 ```
 
